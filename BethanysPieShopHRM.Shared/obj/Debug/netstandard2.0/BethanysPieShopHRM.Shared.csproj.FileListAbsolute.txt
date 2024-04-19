@@ -1,0 +1,10 @@
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\bin\Debug\netstandard2.0\BethanysPieShopHRM.Shared.deps.json
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\bin\Debug\netstandard2.0\BethanysPieShopHRM.Shared.dll
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\bin\Debug\netstandard2.0\BethanysPieShopHRM.Shared.pdb
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.csproj.AssemblyReference.cache
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.dll
+D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.pdb

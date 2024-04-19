@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1GA2e/s06dlVecxkb0n2wMMeHH3d8uq9UxOF+T9+hSlbqwJbXvMZxyqysY3a00GnggVr8WuDpc6QMSWVbZDeWA==",
+  "success": true,
+  "projectFilePath": "D:\\getting-started-blazor\\02\\demos\\End\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fahmida Ward\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fahmida Ward\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

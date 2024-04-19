@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BethanysPieShopHRM.Shared
+build_property.ProjectDir = D:\getting-started-blazor\02\demos\End\BethanysPieShopHRM.Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
